@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\r\n\ \ This\ class\ will\ generate\ a\ random\ number\ \ \r\n\ \ from\ 1\ to\ a\ maximum\ value\ specified.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\r\n\ \ @author\ (Shangqing\ Song)\r\n\ \ @version\ (20/04/2018)\r\n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\r\n\ initialise\ instance\ variable\ randomNumber\ of\ \r\n\ class\ RandomNumber\r\n
+comment2.params=max
+comment2.target=int\ generateRandomNumber(int)
+comment2.text=\ \ \ \r\n\ \ This\ method\ will\ generate\ a\ random\ number\ \r\n\ \ from\ 1\ to\ a\ maximum\ value\ specified.\r\n\ \ \r\n\ \ @param\ \ max\ \ A\ int\ of\ maximum\ value\ which\ enter\r\n\ \ \ by\ the\ user\r\n\ \ @return\ \ \ \ this\ random\ number\r\n
+numComments=3
